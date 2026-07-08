@@ -8,7 +8,7 @@ Perfect for learning about:
 - Inter-device communication
 - Server-client architecture
 
----
+
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ Perfect for learning about:
 - 🧵 **Threaded Communication:** Smooth concurrent handling of multiple clients.
 - 🧪 **Lightweight and Pure Python:** No external dependencies.
 
----
+
 
 ## 📁 Project Structure
 
@@ -32,7 +32,7 @@ socket-chat-discovery/
 ├── LICENSE              # MIT License
 ```
 
----
+
 
 ## ⚙️ How It Works
 
@@ -49,7 +49,7 @@ socket-chat-discovery/
    - Sent to everyone.
    - Sent privately using `@username Your message`.
 
----
+
 
 ## 🧪 How to Run
 
@@ -77,7 +77,7 @@ python client.py
 
 You'll be prompted to enter your username.
 
----
+
 
 ## 🔐 Private Messaging
 
@@ -89,7 +89,7 @@ To send a private message to a user:
 
 Only the user `lucky` will receive this message if they are connected.
 
----
+
 
 ## 🌐 Network Configuration
 
@@ -99,10 +99,5 @@ Ensure:
 
 📌 *You can find your local IP using `ipconfig` (Windows) or `ifconfig`/`ip a` (Linux/macOS).*
 
----
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
